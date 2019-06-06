@@ -1,0 +1,5 @@
+APP_NAME: 'open-demo'
+MS_NAME: 'stock'
+BRANCH: 'master'
+GIT_SOURCE_URL: 'https://github.com/dishanfernando/stock.git'
+SONAR_HOST_URL: 'http://sonarqube-open-demo-devops.40.71.221.144.nip.io'
